@@ -1,14 +1,14 @@
 data = {
-    'name': 'James Tiberius Kirk',
-    'nickname': 'Jim',
-    'image': 'kirk.jpg',
+    'name': 'Sirirat Sriwatthana',
+    'nickname': 'Bow',
+    'image': 'me.jpg',
     'greeting_msg': 'Hi, there!',
     'about': """
-        James Tiberius "Jim" Kirk was a male Human Starfleet officer in the 23rd century. He was arguably one of the most famous and highly decorated starship captains in the history of Starfleet. As the commanding officer of the Constitution-class starships USS Enterprise and USS Enterprise-A, Kirk served United Federation of Planets interests as an explorer, soldier, time-traveler, and diplomat.
+        Hello,My name is Bow.I'm student of KMITL.My birthday is 9 march 1999.You can give me some gifts.Love you all,Jubbbbbbbbbbb
     """,
     'work': {
-        'position': 'Starfleet officer',
-        'at': 'Starfleet'
+        'position': 'Freshy Student',
+        'at': 'KMITL'
     },
     'courses': [
         {
@@ -34,7 +34,7 @@ data = {
     ],
     'skills': [
         'Leadership',
-        'Leadership',
+        'Followership',
         'Human Language',
         'Borg Language',
         'Valcan Language',
